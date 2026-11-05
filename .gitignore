@@ -1,0 +1,8 @@
+# Configuración local (contiene la contraseña de MySQL)
+.env
+config/config.local.php
+uploads/productos/*
+!uploads/productos/demo_*.jpg
+*.log
+.DS_Store
+Thumbs.db

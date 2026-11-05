@@ -1,0 +1,127 @@
+INVENTARIOSTOCK - PRODUCTOS DEL CATÁLOGO QUE CONVIENE REVISAR
+Se corrigen desde: Productos > (producto) > Editar.
+Los colores sin tallas en el documento no se crearon (estaban agotados);
+cuando lleguen, agréguelos en el producto con 'Agregar colores o tallas' y registre el ingreso.
+Ningún producto tiene costo registrado: complételo en Editar para ver márgenes y valorización.
+
+
+ZAPATOS DE VESTIR
+-----------------
+* Zapato de vestir 1011
+    - sin precio (quedó en S/ 0.00)
+    - sin marca
+* Zapato planta de goma 1500
+    - sin precio (quedó en S/ 0.00)
+    - sin marca
+    - colores sin tallas en el documento (no se crearon): Negro
+* Zapato de vestir 199
+    - sin precio (quedó en S/ 0.00)
+    - sin marca
+
+ZAPATILLAS DAMA
+---------------
+* Zapatilla de lona
+    - sin precio (quedó en S/ 0.00)
+    - sin marca
+    - El documento solo dice "LONA".
+* Zapatilla de lona plataforma
+    - sin precio (quedó en S/ 0.00)
+    - sin marca
+    - Sin título en el documento.
+* Zapatilla de lona alta plataforma
+    - sin precio (quedó en S/ 0.00)
+    - Sin título; la marca Alestan se ve en la etiqueta de la foto.
+* Bepure  (S/ 75.00)
+    - sin código de modelo
+* Knup  (S/ 70.00)
+    - sin código de modelo
+* I-RUN dama S/110 (A)  (S/ 110.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Plomo, Negro
+    - Sin código de modelo.
+* I-RUN dama S/110 (B)  (S/ 110.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* I-RUN dama S/80  (S/ 80.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Morado
+    - Sin código de modelo.
+* I-CAX dama S/80  (S/ 80.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* I-CAX dama S/100  (S/ 100.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* Conamore dama  (S/ 60.00)
+    - sin código de modelo
+
+ZAPATILLAS VARÓN
+----------------
+* I-RUN para losa S/140  (S/ 140.00)
+    - sin código de modelo
+    - Sin código. Revisar qué zapatilla de la foto corresponde a "Gris" y cuál a "Plomo".
+* Grasep para losa (A)  (S/ 90.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Plomo, Negro
+    - Sin código de modelo.
+* Grasep para losa (B)  (S/ 90.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* Zapatilla de lona Alestan
+    - sin precio (quedó en S/ 0.00)
+* Conamore cuero  (S/ 75.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Azul oscuro
+    - El documento dice "Azul oscuro" pero la foto muestra zapatillas blancas.
+* Zapatilla de lona Alestan planta caramelo  (S/ 50.00)
+    - colores sin tallas en el documento (no se crearon): Negro
+    - En el documento figura como "ALIESTAN"; se unificó con la marca Alestan.
+* Pardus  (S/ 100.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Negro
+* I-RUN 5867  (S/ 140.00)
+    - colores sin tallas en el documento (no se crearon): Negro/azul
+* I-RUN 5820  (S/ 145.00)
+    - colores sin tallas en el documento (no se crearon): Negro con azul, Plomo gris
+    - El documento tiene una segunda foto de este modelo (negro con azul y plomo gris).
+* I-RUN 5751  (S/ 120.00)
+    - colores sin tallas en el documento (no se crearon): Blanco, Plomo gris, Negro puro
+* I-RUN varón S/130  (S/ 130.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Blanco/rojo
+    - Sin código de modelo.
+* I-RUN 5285  (S/ 110.00)
+    - colores sin tallas en el documento (no se crearon): Plomo
+* I-RUN 4986  (S/ 120.00)
+    - colores sin tallas en el documento (no se crearon): Negro arcoíris, Negro
+* I-RUN 5493  (S/ 120.00)
+    - colores sin tallas en el documento (no se crearon): Negro
+* I-CAX Cápsula  (S/ 100.00)
+    - sin código de modelo
+* I-CAX varón S/100 (A)  (S/ 100.00)
+    - sin código de modelo
+    - colores sin tallas en el documento (no se crearon): Petróleo
+    - Sin código de modelo.
+* I-CAX varón S/100 (B)  (S/ 100.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* I-CAX varón S/100 (C)  (S/ 100.00)
+    - sin código de modelo
+    - Sin código de modelo.
+* We Team  (S/ 80.00)
+    - sin código de modelo
+* Zapatilla de lona S/60  (S/ 60.00)
+    - sin marca
+    - Incluye tallas de niño (27 a 32).
+* Aodik  (S/ 80.00)
+    - sin código de modelo
+* Conamore varón  (S/ 75.00)
+    - sin código de modelo
+* Cleber  (S/ 80.00)
+    - sin código de modelo
+* Champions  (S/ 75.00)
+    - sin código de modelo
+* Full Power  (S/ 45.00)
+    - sin código de modelo
+    - sin colores ni tallas: agregue sus variantes en el sistema
+    - El documento no indica colores ni tallas.

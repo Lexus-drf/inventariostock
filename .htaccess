@@ -1,0 +1,9 @@
+Options -Indexes
+DirectoryIndex index.php
+<FilesMatch "\.(sql|md|log|bat|ini|txt)$">
+    Require all denied
+</FilesMatch>
+# Bloquea los archivos de configuración .env y .env.example
+<FilesMatch "^\.env">
+    Require all denied
+</FilesMatch>
